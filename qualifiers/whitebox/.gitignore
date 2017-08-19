@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+*.txt
+*.log
+deadpool_dfa.py
+phoenixAES.py
+lastroundkeys.lst
