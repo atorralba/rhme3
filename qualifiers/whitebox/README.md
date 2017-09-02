@@ -1,4 +1,4 @@
-# Solution to the Whitebox RHme3 Qualification challenge
+# Solution to the Whitebox RHme3 Qualifier challenge
 
 The solution is divided in two scripts:
 
