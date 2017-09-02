@@ -5,3 +5,4 @@ __pycache__
 deadpool_dfa.py
 phoenixAES.py
 lastroundkeys.lst
+whitebox.bin
